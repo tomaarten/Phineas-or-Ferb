@@ -7,3 +7,7 @@ Future plans:
 Make Docker Variables
 Integrate MQTT from Frigate Cams
 Save uploads
+
+The Full Docker Repository is here: docker pull vries2k/phineas-or-ferb:latest
+Simply run "docker pull vries2k/phineas-or-ferb:latest" or make a docker-compose.yml
+A preview is included, port 80 needs to be open for the frondend.
